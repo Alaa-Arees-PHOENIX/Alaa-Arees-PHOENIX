@@ -2,7 +2,7 @@ Alaa Arees ~ PHOENIX
 ====================
 
 A young Syrian IT student at Tishreen university, practicing and studying  
-to be a software developer and interested in game development spcifically.
+to become a software developer, interested mostly in game development.
 
 Contact us:
 -----------
